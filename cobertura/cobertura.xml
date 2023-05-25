@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<coverage timestamp="1683234229" branch-rate="0.7366412213740458" complexity="336.0" line-rate="0.9617486338797814" lines-covered="1" lines-valid="1" branches-covered="1" branches-valid="1">
+    <packages>
+        <package name="com.parasoft.parabank.util">
+            <classes>
+                <class filename="Accounts.java" name="com.parasoft.parabank.util.Accounts">
+                    <lines>
+                        <line branch="false" hits="1" number="45">
+                            <conditions/>
+                        </line>
+                        <line branch="false" hits="1" number="49">
+                            <conditions/>
+                        </line>
+                    </lines>
+                </class>
+            </classes>
+        </package>
+    </packages>
+    <sources>
+        <source>src/main/java/com/parasoft/parabank/util</source>
+    </sources>
+</coverage>
